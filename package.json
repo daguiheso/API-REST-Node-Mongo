@@ -1,0 +1,14 @@
+{
+  "name": "APIRest",
+  "version": "0.0.1",
+  "description": "Ejemplo de API REST",
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest",
+    "mongoose": "latest"
+  },
+  "devDependencies": {
+    "body-parser": "^1.9.0",
+    "method-override": "^2.2.0"
+  }
+}
